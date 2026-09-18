@@ -160,7 +160,7 @@ Open the `fraud_detection.ipynb` notebook and run the cells.
 
 ## 👩‍💻 Author
 
-**Gayajuddin**
+**vippalasubhashini**
 
 B.Tech AI & ML Student
 Interested in Artificial Intelligence, Machine Learning, and Deep Learning.
